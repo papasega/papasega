@@ -5,7 +5,7 @@
 ### AI Research Engineer | PhD in Computer Science | LLMs, Speech AI, and African Languages
 
 
-[Website](https://papasegawade.com) · [Hugging Face](https://huggingface.co/papasega) · [GitHub](https://github.com/papasega)
+[Website](https://papasegawade.com) · [Hugging Face](https://huggingface.co/papasega) · [LinkedIn](https://www.linkedin.com/in/papa-s%C3%A9ga-wade-phd-a5727513a/)
 
 </div>
 
