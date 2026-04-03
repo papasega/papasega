@@ -21,11 +21,10 @@ My work focuses on large language models, speech technologies, and AI systems fo
 
 ## What I Work On
 
-- Large Language Models for low-resource and multilingual settings
 - Speech technologies, including ASR and TTS
+- Large Language Models for low-resource and multilingual settings
 - Natural Language Processing for African languages
 - Wolof language technologies
-- Applied deep learning for inclusive AI
 
 ---
 
